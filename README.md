@@ -23,9 +23,10 @@ Projeto feito através do video do Dev Envolvente!
 
   <img alt="projeto   WebSite" src=".github/preview.png" width="100%">
 
+
   <img alt="projeto   WebSite" src=".github/preview.jpg" width="100%">
 
-</p>
+
 
 ##  🚀 Tecnologias
 
