@@ -20,11 +20,11 @@ Projeto feito através do video do Dev Envolvente!
 <br>
 
 <p align="center">
-<<<<<<< HEAD
+
   <img alt="projeto   WebSite" src=".github/preview.png" width="100%">
-=======
+
   <img alt="projeto   WebSite" src=".github/preview.jpg" width="100%">
->>>>>>> d4a23d24030ecb27a7da87c4f40811de1cdd1493
+
 </p>
 
 ##  🚀 Tecnologias
