@@ -3,7 +3,7 @@ Criando um web site do zero
 <h1 align="center"> WebSite </h1>
 
 <p align="center">
-Projeto feito através do video do Dev Envolvente!
+Projeto feito com carinho!
 </p>
 
 <p align="center">
